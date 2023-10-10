@@ -8,9 +8,23 @@
       <link href="/2023/10/10/yodayo/"/>
       <url>/2023/10/10/yodayo/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><img src="/images/gpt.jpg" alt="123"></p>]]></content>
       
       
+      <categories>
+          
+          <category> Baz </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> first </tag>
+            
+            <tag> 2 </tag>
+            
+        </tags>
       
     </entry>
     
